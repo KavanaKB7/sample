@@ -1,0 +1,7 @@
+hi I don't know where it was 
+you no nothing
+git commit -m "you can write"
+git status
+git clone
+ssh public key
+git add
